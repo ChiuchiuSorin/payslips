@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="moduleMapping">
+      <map>
+        <entry key="application-payslips-api" value="application-admintools-api" />
+        <entry key="application-payslips-ui" value="application-admintools-ui" />
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="xwiki-releases" />
+      <option name="name" value="XWiki Nexus Releases Repository Proxy" />
+      <option name="url" value="https://nexus.xwiki.org/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="public-store-snapshots" />
+      <option name="name" value="XWiki SAS Public Store Repository for Snapshots" />
+      <option name="url" value="https://nexus.xwiki.com/nexus/content/repositories/public-store-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus.xwikisas.com" />
+      <option name="name" value="XWikiSAS Nexus Releases Repository Proxy" />
+      <option name="url" value="https://nexus.xwikisas.com/nexus/content/repositories/xwiki-cloud" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="xwiki-snapshots" />
+      <option name="name" value="XWiki Nexus Snapshot Repository Proxy" />
+      <option name="url" value="https://nexus-snapshots.xwiki.org/repository/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cloud-releases" />
+      <option name="name" value="XWikiSAS Nexus Releases Repository Proxy" />
+      <option name="url" value="https://nexus.xwikisas.com/nexus/content/repositories/xwiki-cloud-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="public-store-releases" />
+      <option name="name" value="XWiki SAS Public Store Repository for Releases" />
+      <option name="url" value="https://nexus.xwiki.com/nexus/content/repositories/public-store-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75921265-d3c4-4457-88a7-31a6de734e8b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="iss143" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="KEEP" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2tzWjHPpBXGPDRMBnHm3ytmMC2y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/sorin/work/my_repos/contrib/full-calendar/sas/macro-fullcalendar",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ConfigurationDataProviderTest">
+    <configuration name="ConfigurationDataProviderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="application-admintools-default" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xwiki.admintools.internal.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xwiki.admintools.internal.data" />
+      <option name="MAIN_CLASS_NAME" value="com.xwiki.admintools.internal.data.ConfigurationDataProviderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetworkManagerTest.getJSONFromNetwork" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="application-admintools-default" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xwiki.admintools.internal.network.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xwiki.admintools.internal.network" />
+      <option name="MAIN_CLASS_NAME" value="com.xwiki.admintools.internal.network.NetworkManagerTest" />
+      <option name="METHOD_NAME" value="getJSONFromNetwork" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetworkManagerTest.testGetJSONFromNetwork" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="application-admintools-default" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xwiki.admintools.internal.network.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xwiki.admintools.internal.network" />
+      <option name="MAIN_CLASS_NAME" value="com.xwiki.admintools.internal.network.NetworkManagerTest" />
+      <option name="METHOD_NAME" value="testGetJSONFromNetwork" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetworkManagerTest.testGetJSONFromNetworkNoStoredCookie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="application-admintools-default" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xwiki.admintools.internal.network.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xwiki.admintools.internal.network" />
+      <option name="MAIN_CLASS_NAME" value="com.xwiki.admintools.internal.network.NetworkManagerTest" />
+      <option name="METHOD_NAME" value="testGetJSONFromNetworkNoStoredCookie" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetworkManagerTest.testGetLimits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="application-admintools-default" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xwiki.admintools.internal.network.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xwiki.admintools.internal.network" />
+      <option name="MAIN_CLASS_NAME" value="com.xwiki.admintools.internal.network.NetworkManagerTest" />
+      <option name="METHOD_NAME" value="testGetLimits" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="debuger" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ConfigurationDataProviderTest" />
+      <item itemvalue="JUnit.NetworkManagerTest.getJSONFromNetwork" />
+      <item itemvalue="JUnit.NetworkManagerTest.testGetJSONFromNetworkNoStoredCookie" />
+      <item itemvalue="JUnit.NetworkManagerTest.testGetJSONFromNetwork" />
+      <item itemvalue="JUnit.NetworkManagerTest.testGetLimits" />
+      <item itemvalue="Remote JVM Debug.debuger" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NetworkManagerTest.testGetLimits" />
+        <item itemvalue="JUnit.NetworkManagerTest.testGetJSONFromNetwork" />
+        <item itemvalue="JUnit.NetworkManagerTest.testGetJSONFromNetworkNoStoredCookie" />
+        <item itemvalue="JUnit.NetworkManagerTest.getJSONFromNetwork" />
+        <item itemvalue="JUnit.ConfigurationDataProviderTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75921265-d3c4-4457-88a7-31a6de734e8b" name="Changes" comment="" />
+      <created>1741355517690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741355517690</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../admin_tools_pro/2/application-admintools/application-admintools-default/src/test/java/com/xwiki/admintools/internal/security/EntityRightsProviderTest.java</url>
+          <line>311</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../admin_tools_pro/2/application-admintools/application-admintools-default/src/test/java/com/xwiki/admintools/internal/security/EntityRightsProviderTest.java</url>
+          <line>309</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../admin_tools_pro/2/application-admintools/application-admintools-default/src/main/java/com/xwiki/admintools/internal/network/NetworkManager.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../admin_tools_pro/2/application-admintools/application-admintools-default/src/test/java/com/xwiki/admintools/internal/network/NetworkManagerTest.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../admin_tools_pro/2/application-admintools/application-admintools-default/src/main/java/com/xwiki/admintools/internal/network/NetworkManager.java</url>
+          <line>181</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../admin_tools_pro/2/application-admintools/application-admintools-default/src/test/java/com/xwiki/admintools/internal/network/NetworkManagerTest.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../admin_tools_pro/2/application-admintools/application-admintools-default/src/main/java/com/xwiki/admintools/internal/network/NetworkManager.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../admin_tools_pro/2/application-admintools/application-admintools-default/src/main/java/com/xwiki/admintools/internal/network/NetworkManager.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="wikiContext.getRequest().getSession().getAttribute(&quot;xnngSessionId&quot;)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

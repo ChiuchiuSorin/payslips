@@ -1,0 +1,43 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1757937400760
+Build-Jdk-Spec: 21
+Bundle-Description: Provides the Java APIs needed by the Admin tools App
+ lication.
+Bundle-DocURL: http://xwiki.com/
+Bundle-License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+Bundle-ManifestVersion: 2
+Bundle-Name: Admin Tools (Pro) - API
+Bundle-SymbolicName: com.xwiki.admintools.application-admintools-api
+Bundle-Vendor: XWiki SAS
+Bundle-Version: 1.2.2.13-SNAPSHOT
+Created-By: Apache Maven Bundle Plugin 5.1.8
+Export-Package: com.xwiki.admintools.rest;uses:="javax.ws.rs,javax.ws.rs
+ .core,org.xwiki.rest,org.xwiki.stability";version="1.2.2",com.xwiki.adm
+ intools.download;uses:="org.xwiki.component.annotation";version="1.2.2"
+ ,com.xwiki.admintools.jobs;uses:="org.xwiki.job,org.xwiki.logging,org.x
+ wiki.observation,org.xwiki.stability";version="1.2.2",com.xwiki.adminto
+ ols.health;uses:="com.xwiki.admintools.jobs,org.xwiki.component.annotat
+ ion,org.xwiki.stability";version="1.2.2",com.xwiki.admintools.usage;use
+ s:="org.xwiki.stability";version="1.2.2",com.xwiki.admintools;uses:="or
+ g.xwiki.component.annotation,org.xwiki.stability";version="1.2.2",com.x
+ wiki.admintools.configuration;uses:="org.xwiki.component.annotation";ve
+ rsion="1.2.2",com.xwiki.admintools.uploadPackageJob;uses:="org.xwiki.st
+ ability";version="1.2.2",com.xwiki.admintools.security;uses:="org.xwiki
+ .model.reference,org.xwiki.stability";version="1.2.2"
+Implementation-Title: Admin Tools (Pro) - API
+Implementation-Vendor: XWiki SAS
+Implementation-Version: 1.2.2.13-SNAPSHOT
+Import-Package: com.xwiki.admintools.jobs,java.io,java.lang,java.lang.in
+ voke,java.util,java.util.function,java.util.regex,java.util.stream,java
+ .util.zip,javax.ws.rs;version="[1.1,2)",javax.ws.rs.core;version="[1.1,
+ 2)",org.xwiki.component.annotation;version="[14.10,15)",org.xwiki.job;v
+ ersion="[14.10,15)",org.xwiki.job.event.status;version="[14.10,15)",org
+ .xwiki.logging;version="[14.10,15)",org.xwiki.model.reference;version="
+ [14.10,15)",org.xwiki.observation;version="[14.10,15)",org.xwiki.rest;v
+ ersion="[14.10,15)",org.xwiki.stability;version="[14.10,15)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=11))"
+Specification-Title: Admin Tools (Pro) - API
+Specification-Vendor: XWiki SAS
+Specification-Version: 0.0
+Tool: Bnd-6.3.1.202206071316
+XWiki-Extension-Id: com.xwiki.admintools:application-admintools-api

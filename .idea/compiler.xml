@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="application-admintools" target="11" />
+      <module name="application-admintools-default" target="11" />
+      <module name="application-admintools-webjar" target="11" />
+      <module name="application-admintools-xip" target="11" />
+      <module name="application-payslips" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="application-admintools" options="-parameters -Xlint:all -Xlint:-options -parameters" />
+      <module name="application-admintools-default" options="-parameters -Xlint:all -Xlint:-options -parameters" />
+      <module name="application-admintools-webjar" options="-parameters -Xlint:all -Xlint:-options -parameters" />
+      <module name="application-admintools-xip" options="-parameters -Xlint:all -Xlint:-options -parameters" />
+      <module name="application-payslips" options="-parameters -Xlint:all -Xlint:-options -parameters" />
+      <module name="application-payslips-api" options="-parameters -Xlint:all -Xlint:-options -parameters" />
+      <module name="application-payslips-pom" options="-parameters -Xlint:all -Xlint:-options -parameters" />
+      <module name="application-payslips-ui" options="-parameters -Xlint:all -Xlint:-options -parameters" />
+    </option>
+  </component>
+</project>
