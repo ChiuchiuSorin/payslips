@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<licensePluginReport goal="CHECK" timestamp="1758791005670">
+    <module artifactId="application-payslips-api" groupId="org.xwiki.contrib" version="1.0.0-SNAPSHOT"/>
+    <files>
+        <file path="pom.xml" result="PRESENT"/>
+        <file path="src/main/java/org/xwiki/payslips/internal/ExcelParser.java" result="PRESENT"/>
+        <file path="src/main/java/org/xwiki/payslips/script/PayslipsScript.java" result="PRESENT"/>
+    </files>
+</licensePluginReport>

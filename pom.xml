@@ -25,7 +25,7 @@
   <parent>
     <groupId>org.xwiki.contrib</groupId>
     <artifactId>parent-platform</artifactId>
-    <version>14.10</version>
+    <version>16.4.4</version>
   </parent>
   <groupId>org.xwiki.contrib</groupId>
   <artifactId>application-payslips-pom</artifactId>
@@ -40,6 +40,10 @@
     <tag>HEAD</tag>
   </scm>
   <developers>
+    <developer>
+      <id>ChiuchiuSorin</id>
+      <name>Sorin Chiuchiu</name>
+    </developer>
     <developer>
       <id>ChiuchiuSorin</id>
       <name>Sorin Chiuchiu</name>

@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1758786081140
-Build-Jdk-Spec: 11
+Bnd-LastModified: 1758791005407
+Build-Jdk-Spec: 17
 Bundle-DocURL: http://contrib.xwiki.org/
 Bundle-License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
 Bundle-ManifestVersion: 2
@@ -8,10 +8,15 @@ Bundle-Name: Payslips application - API
 Bundle-SymbolicName: org.xwiki.contrib.application-payslips-api
 Bundle-Vendor: XWiki Contrib
 Bundle-Version: 1.0.0.SNAPSHOT
-Created-By: Apache Maven Bundle Plugin 5.1.8
+Created-By: Apache Maven Bundle Plugin 5.1.9
+Export-Package: org.xwiki.payslips.script;uses:="javax.inject,org.xwiki.
+ component.annotation,org.xwiki.script.service";version="1.0.0"
 Implementation-Title: Payslips application - API
 Implementation-Vendor: XWiki Contrib
 Implementation-Version: 1.0.0-SNAPSHOT
+Import-Package: java.lang,javax.inject,org.xwiki.component.annotation;ve
+ rsion="[16.4,17)",org.xwiki.script.service;version="[16.4,17)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=17))"
 Specification-Title: Payslips application - API
 Specification-Vendor: XWiki Contrib
 Specification-Version: 1.0

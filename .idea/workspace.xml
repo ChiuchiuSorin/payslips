@@ -4,7 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75921265-d3c4-4457-88a7-31a6de734e8b" name="Changes" comment="" />
+    <list default="true" id="75921265-d3c4-4457-88a7-31a6de734e8b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/application-payslips-api/target-eclipse/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/ChangeDocumentUser.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/CheckSecurityCache.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/CheckUserRightsOnPage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/AdminToolsJS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/ApplicationsPanelEntry.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/Configuration.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/ConfigurationClass.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/EmptyPagesJSON.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/HealthCheckMacros.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/HealthCheckResources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/JobCommonMacros.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/JobOutput.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/LivedataCommonFilters.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/Macros.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/NetworkIssuesJSON.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/NetworkOrdersJSON.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/PackageUploadClass.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/PackageUploadSheet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/PackageUploadTemplate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/PackagesJSON.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/RelativeUserAndPagePickers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/RightsLivedataCommonFilters.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/SpammedPagesJSON.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/Translations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/ViewRightsJSON.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/WikisRecycleBinsJSON.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Code/WikisSizeJSON.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/EmptyPages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/HelpLinks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/NetworkIssues.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/NetworkOrders.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/Packages/WebHome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/SpammedPages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/UploadPackage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/ViewGroupsRights.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/ViewUsersRights.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/WebHome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/WebPreferences.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/WikisRecycleBins.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-payslips-ui/target-eclipse/classes/AdminTools/WikisSize.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
